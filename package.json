@@ -1,0 +1,22 @@
+{
+  "name": "eracost",
+  "version": "1.0.0",
+  "description": "website for eracost",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritik",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcrypt": "^5.0.0",
+    "config": "^3.3.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.21",
+    "nodemailer": "^6.4.10"
+  }
+}
